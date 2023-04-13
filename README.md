@@ -2,9 +2,9 @@
 
 ## Learning Goals
 
-- Set a default value for a function parameter
-- Use JavaScript's `rest` parameter to define parameters in a function
-- Use JavaScript's `spread` operator in a function call
+- Set a default value for a function parameter.
+- Use JavaScript's `rest` parameter to define parameters in a function.
+- Use JavaScript's `spread` operator in a function call.
 
 ## Introduction
 
